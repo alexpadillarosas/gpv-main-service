@@ -1,4 +1,4 @@
-package au.gpsonvermont;
+package au.gpsonvermont.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

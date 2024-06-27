@@ -1,4 +1,4 @@
-package au.gpsonvermont;
+package au.gpsonvermont.app;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import jakarta.persistence.Entity;
